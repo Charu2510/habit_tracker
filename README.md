@@ -1,16 +1,23 @@
-# habit_tracker
+# HABIT TRACKER APP
 
-A new Flutter project.
+## OVERVIEW -
+This Flutter-based app allows user to keep track of their daily habits and visualize their consistency through a heatmap.
 
-## Getting Started
+## FEATURES -
+1. Add, modify and delete habits.
+2. HeatMap to visualize progress, with the block of current getting darker as more habits are completed.
+3. Light and Dark mode options in the sidebar.
+4. Isar Database to manage and keep the track of habits
 
-This project is a starting point for a Flutter application.
+## PHOTOBOOK -
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+ 
+
+   
+
+
